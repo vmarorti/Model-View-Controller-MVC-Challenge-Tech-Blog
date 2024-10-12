@@ -1,5 +1,4 @@
 const User = require('./User');
-const Project = require('./Blog');
 const Blog = require('./Blog');
 
 // Creates a relationship between User and Project model, with the User having a "has many" relationship with Project model.
