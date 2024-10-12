@@ -1,0 +1,32 @@
+[
+    {
+        "username": "BruceWayne",
+        "email": "bruce.wayne@wayneenterprices.com",
+        "password": "iAmBatman123"
+    },
+    {
+        "username": "ClarkKent",
+        "email": "clark.kent@dailyplanet.com",
+        "password": "superman>Batman333"
+    },
+    {
+        "username": "Leonardo",
+        "email": "leo5@ninjaturtles.com",
+        "password": "ImTheBossOfYou888"
+    },
+    {
+        "username": "Michelangelo",
+        "email": "mikey4@ninjaturtles.com",
+        "password": "pizzaFan11"
+    }, 
+    {
+        "username": "Donatello",
+        "email": "don66@ninjaturtles.com",
+        "password": "iqIs333"
+    },
+    {
+        "username": "Raphael",
+        "email": "raph22@ninjaturtles.com",
+        "password": "strongerThanYou77"
+    }
+]
